@@ -1,0 +1,15 @@
+D:\אמא\CollectionProject\DatabaseActions\bin\Debug\net7.0\DatabaseActions.deps.json
+D:\אמא\CollectionProject\DatabaseActions\bin\Debug\net7.0\DatabaseActions.dll
+D:\אמא\CollectionProject\DatabaseActions\bin\Debug\net7.0\DatabaseActions.pdb
+D:\אמא\CollectionProject\DatabaseActions\bin\Debug\net7.0\Models.dll
+D:\אמא\CollectionProject\DatabaseActions\bin\Debug\net7.0\Models.pdb
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.csproj.AssemblyReference.cache
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.GeneratedMSBuildEditorConfig.editorconfig
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.AssemblyInfoInputs.cache
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.AssemblyInfo.cs
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.csproj.CoreCompileInputs.cache
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.csproj.CopyComplete
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.dll
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\refint\DatabaseActions.dll
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\DatabaseActions.pdb
+D:\אמא\CollectionProject\DatabaseActions\obj\Debug\net7.0\ref\DatabaseActions.dll
